@@ -1,3 +1,3 @@
 # New project
 This project was created from local system
-created by Rakshita
+created by Rakshita Reddy.
